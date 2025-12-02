@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a student study in NTUEE.
 <!--
 **maxlin0116/maxlin0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
